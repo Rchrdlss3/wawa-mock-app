@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/wawa-mock-app/static/css/main.e6c13ad2.css",
+    "main.js": "/wawa-mock-app/static/js/main.0e05c278.js",
+    "static/js/945.57bc624a.chunk.js": "/wawa-mock-app/static/js/945.57bc624a.chunk.js",
+    "static/js/750.07ec46b2.chunk.js": "/wawa-mock-app/static/js/750.07ec46b2.chunk.js",
+    "static/js/454.bd02a037.chunk.js": "/wawa-mock-app/static/js/454.bd02a037.chunk.js",
+    "static/js/66.8bc35036.chunk.js": "/wawa-mock-app/static/js/66.8bc35036.chunk.js",
+    "static/media/wawa_green_shirt.png": "/wawa-mock-app/static/media/wawa_green_shirt.21be87e8baf1e1d105d0.png",
+    "static/media/wawa_red_shirt.png": "/wawa-mock-app/static/media/wawa_red_shirt.9aaf4b1607b1ed5368df.png",
+    "static/media/wawahoodie.png": "/wawa-mock-app/static/media/wawahoodie.82f70de401fc8f430b65.png",
+    "static/media/2210_ProductSpotlight_ItalianPanini.jpeg": "/wawa-mock-app/static/media/2210_ProductSpotlight_ItalianPanini.41a162f8ffe0ef693518.jpeg",
+    "static/media/wawalogo.png": "/wawa-mock-app/static/media/wawalogo.8c88bbbec88403e1d096.png",
+    "static/media/wawalogo_green.png": "/wawa-mock-app/static/media/wawalogo_green.893bb835cca86b46de6f.png",
+    "static/media/2210_ProductSpotlight_CaramelLatte.jpeg": "/wawa-mock-app/static/media/2210_ProductSpotlight_CaramelLatte.ec8c9e3234224c367400.jpeg",
+    "static/media/_WO_2402_DS_Burrito_Salad_Combo.avif": "/wawa-mock-app/static/media/_WO_2402_DS_Burrito_Salad_Combo.4ac8e2b8437860ec517c.avif",
+    "static/media/DM_2510_DS_Teriyaki_Crispy_Chicken_Sandwich_197.avif": "/wawa-mock-app/static/media/DM_2510_DS_Teriyaki_Crispy_Chicken_Sandwich_197.ec80cb4919bc942afa41.avif",
+    "index.html": "/wawa-mock-app/index.html",
+    "main.e6c13ad2.css.map": "/wawa-mock-app/static/css/main.e6c13ad2.css.map",
+    "main.0e05c278.js.map": "/wawa-mock-app/static/js/main.0e05c278.js.map",
+    "945.57bc624a.chunk.js.map": "/wawa-mock-app/static/js/945.57bc624a.chunk.js.map",
+    "750.07ec46b2.chunk.js.map": "/wawa-mock-app/static/js/750.07ec46b2.chunk.js.map",
+    "454.bd02a037.chunk.js.map": "/wawa-mock-app/static/js/454.bd02a037.chunk.js.map",
+    "66.8bc35036.chunk.js.map": "/wawa-mock-app/static/js/66.8bc35036.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.0e05c278.js"
+  ]
+}
